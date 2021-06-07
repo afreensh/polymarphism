@@ -1,0 +1,7 @@
+C:\Users\shaik afreen\source\repos\DelegateDemo\bin\Debug\DelegateDemo.exe.config
+C:\Users\shaik afreen\source\repos\DelegateDemo\bin\Debug\DelegateDemo.exe
+C:\Users\shaik afreen\source\repos\DelegateDemo\bin\Debug\DelegateDemo.pdb
+C:\Users\shaik afreen\source\repos\DelegateDemo\obj\Debug\DelegateDemo.csprojAssemblyReference.cache
+C:\Users\shaik afreen\source\repos\DelegateDemo\obj\Debug\DelegateDemo.csproj.CoreCompileInputs.cache
+C:\Users\shaik afreen\source\repos\DelegateDemo\obj\Debug\DelegateDemo.exe
+C:\Users\shaik afreen\source\repos\DelegateDemo\obj\Debug\DelegateDemo.pdb
